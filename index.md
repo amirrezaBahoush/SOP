@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+<div dir="rtl">
+  <h1> انگیزه نامه </h1>
+  <p> با سلام، به انگیزه نامه ی من خوش آمدید. در ادامه به معرفی خودم وانگیزه ام از تحصیل در این رشته و دانشگاه می پردازم.</p>
+  
+  <a name="top"></a>
+  <ul>
+  <h3> بخش های نحتلف صفحه </h3>
+  <li><a href="introduction"> معرفی </a></li>
+  <li><a href="goal"> هدف از انتخاب این رشته </a></li>
+  <li><a href="favorites"> سوابق کاری </a></li>
+</ul>
 
-You can use the [editor on GitHub](https://github.com/amirrezaBahoush/SOP/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+  <a name="introduction"></a>
+<h2> معرفی </h2>
+<p> من امیررضا باهوش مهدی آبادی، دانشجوی ترم ۴ مهندسی کامپیوتر دانشگاه پیام نور واجحد تهران شمال هستم.
+همچنین به مدت یک سالدر شرکت موج آینده فرافن به عنوان frontend developer نیز مشغولم و همچنان فعالیتم را در این سازمان ادامه می دهم.<p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/amirrezaBahoush/SOP/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+  <a name="goal"></a>
+<h2> هدف از انتخاب این رشته </h2>
+<p> من از ابتدا علاقه مند به رشته ی کامپیوتر و به خصوص زمینه ی نرم افزار و برنامه نویسی بودم. قبلا در رشته ی مهندسی متالورژی تحصیل میکردم اما به خاطر علاقه نداشتن به آن رشته و علاقه ی شدید به کامپیوتر و همچنین مشغول به کار بودن در این جوزه و برنامه نویسی تصمیم به تغییر رشته و دانشگاه گرفتم تا در رشته ی مورد علاقه ام تحصیل کنم. <p>
+  
+<a name="experience"></a>
+  <h2> سوابق کاری </h2>
+<p> پس از کنکور در سال ۱۳۹۴ و به مدت یک سال به عنوان دبیر ریاضیات دبیرستان و پیش دانشگاهی در دبیرستان خاتم مشغول به کار بودم. پس از آن و یادگیری برنامه نویسی به صورت شرکت در دورهها و خودآموز در سال ۱۳۹۶، به مدت ۹ ماه در شرکت سوران ارقام فناور به عنوان frontend developer  و سپس تز مهر ماه سال ۱۳۹۸ در شرکت موج آینده ی فرافن در همین جایگاه  مشغول به کار شدن و هم اکنون نیز مشغول هستم.<p> 
+  
+ <a name="favorites"></a>
+  <h2> تفریحات و علاقه مندی ها </h2>
+<p> به شدت علاقه مند به یادگیری توانایی های جدید درزمینه ی شغلی خود هستم و همچنین شدیدا ورزش کردن و فوتبال را دوست دارم و ورزش همواره جزؤ مهمی از زندگی من است <p>
