@@ -10,7 +10,7 @@
   <li><a href="#goal"> هدف از انتخاب این رشته </a></li>
   <li><a href="#after"> برنامه ی بعد از اتملم تحصیل </a></li>
   <li><a href="#experience"> سوابق کاری </a></li>
-  <li><a href="#favorites"> سوابق کاری </a></li>
+  <li><a href="#favorites"> تفریحات و علاقه مندی ها </a></li>
 </ul>
 
   <a name="introduction"></a>
